@@ -1,0 +1,5 @@
+CHECK EMAIL:
+                            In this module we get the input as email and then we process them to check how many messsages were remained unseen in th total no of messages 
+
+REPORT GENERATION:
+	         Here in this module we have generated reports for the sent mails whether they have sent correctly or not
