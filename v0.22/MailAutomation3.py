@@ -813,6 +813,7 @@ class Actual(tk.Frame,mainwindow):
         multi.start()
     def multithreading1(self):
         global numberentry
+
         global codeentry
         global ment
         global vs
@@ -826,6 +827,8 @@ class Actual(tk.Frame,mainwindow):
         global servercount1
         global servercount2
         #ment=StringVar()
+        global t
+        global flag
         servercount=0
         servercount1=0
         servercount2=0
@@ -836,203 +839,211 @@ class Actual(tk.Frame,mainwindow):
         self.uo=secondwindow.numberentry.get()
         self.uo=int(self.uo)
         key=0
+        t=0
        # print(mainwindow.count1)
         for i in range(self.uo,len(mainwindow.readls)):
-            logging.debug('enterd interation No:%d'%i)
-            title =mainwindow.readlt[i]   #CHANGED FROM LT VARIABLE
-           # print(title)
-            msg_00content = '<p><span style="font-size: 14pt;font-family: arial,helvetica,sans-serif; ">Namaste {title},<br /></p>'.format(
+            flag=0
+            print("current i value is",i)
+            while (flag==0):
+                logging.debug('enterd interation No:%d'%i)
+                title =mainwindow.readlt[i]   #CHANGED FROM LT VARIABLE
+       # print(title)
+                msg_00content = '<p><span style="font-size: 14pt;font-family: arial,helvetica,sans-serif; ">Namaste {title},<br /></p>'.format(
                 title=title)
-            msg_01content = self.ar
+                msg_01content = self.ar
             
-            msg = msg_00content #+ar
-            message=MIMEMultipart('alternative')
-            textmessage = MIMEText(msg, 'html')
-            htmlmessage=MIMEText(mainwindow.readht,'html')
-            message['From'] =mainwindow.readvs[j]
-            message['To'] = mainwindow.readls[i]
-            #bk=',Feedback-ID:{df}:{fd}:01:01'.format(df=df,fd=i)
-            message['Subject'] =self.actsub
-            # msg=str(message)
-            message.attach(textmessage)
-            message.attach(htmlmessage)
-            msg=message.as_string()
+                msg = msg_00content #+ar
+                message=MIMEMultipart('alternative')
+                textmessage = MIMEText(msg, 'html')
+                htmlmessage=MIMEText(mainwindow.readht,'html')
+                message['From'] =mainwindow.readvs[j]
+                message['To'] = mainwindow.readls[i]
+                #bk=',Feedback-ID:{df}:{fd}:01:01'.format(df=df,fd=i)
+                message['Subject'] =self.actsub
+                # msg=str(message)
+                message.attach(textmessage)
+                message.attach(htmlmessage)
+                msg=message.as_string()
 
             
             # msg_full=MIMEText(message,'plain','UTF-8')
             # msg_full.as_string()
             # #sub=self.cr[11:]
             
-            if i <= 500:
-                try:
-                    if self.internetcheck() == False:
+                if i <= 500:
+                    try:
+                        if self.internetcheck() == False:
                         
                         
                         #tkinter.messagebox.showwarning('Warning',"Network Failue,waiting for connections")
 
                         
-                        logging.error(str(now))
-                        logging.error("Internet Connection Not Established")
-                    
-                        for u in range(0,1000000):
-                            if self.internetcheck() == False:
-                                time.sleep(1)
-                                
+                            logging.error(str(now))
+                            logging.error("Internet Connection Not Established")
+                
+                            for u in range(0,1000000):
+                                if self.internetcheck() == False:
+                                    time.sleep(1)
+                
                                 #tkinter.messagebox.showwarning('Warning',"Sleeping until internet connects...Trying %d times" % u)
-                                sys.stdout.flush()
+                                    sys.stdout.flush()
                                 #if self.internetcheck() == True:
                                     #break
-                            else:
-                                count=10
-                                messagess(count)
-                                count=9
-                                messagess(count)
-                                #tkinter.messagebox.showwarning('Warning',"Awake from sleep, Got connection...")
+                                else:
+                                    count=10
+                                    messagess(count)
+                                    count=9
+                                    messagess(count)
+                            #tkinter.messagebox.showwarning('Warning',"Awake from sleep, Got connection...")
                                 #print("Awake from sleep, Got connection...", end='\r')
-                                logging.debug(str(now))
-                                logging.debug("Internet Connection Established")
-                                sys.stdout.flush()
-                                break         
-                    else:
-                        server = smtplib.SMTP('smtp.gmail.com:587')  # setting up service provider name : port number
-                        server.starttls()  # asking server to start
-                        servercount=servercount+1
-                       # print("servercount=",servercount)
-                        #print(mainwindow.readxs[j])
-                        #print(mainwindow.readls[i])
-                        server.login(mainwindow.readxs[i],mainwindow.readys[i]) 
-                        servercount1=servercount1+1
+                                    logging.debug(str(now))
+                                    logging.debug("Internet Connection Established")
+                                    sys.stdout.flush()
+                                    break         
+                        else:
+                            server = smtplib.SMTP('smtp.gmail.com:587')  # setting up service provider name : port number
+                            server.starttls()  # asking server to start
+                            servercount=servercount+1
+                       #      print(servercount)
+                       #print("servercount=",servercount)
+                            # print(mainwindow.readxs[j])
+                            # print(mainwindow.readys[i])
+
+                            print(server.login(mainwindow.readxs[j],mainwindow.readys[j])) 
+                            servercount1=servercount1+1
                         #print("servercount1=",servercount1) # Sender Mail, Sender Mail Password
                         #print("current j value=",j)
-                        server.sendmail(mainwindow.readxs[j], [mainwindow.readls[i]],msg)
-                        servercount2=servercount2+1
+                            print(server.sendmail(mainwindow.readxs[j], [mainwindow.readls[i]],msg))
+                            flag=1
+                            servercount2=servercount2+1
                         #print("servercount2=",servercount2)
-                        mainwindow.report.append(mainwindow.readxs[j])
-                        self.start_thread(mainwindow.readxs[j],mainwindow.readls[i])
+                            mainwindow.report.append(mainwindow.readxs[j])
+                            self.start_thread(mainwindow.readxs[j],mainwindow.readls[i])
                         
                         
                     
-                        if i==200:
-                            
-                            count=2
-                            messagess(count)
-                        if i==400:
-                            
-                            count=4
-                            messagess(count)
-                        multi = threading.Thread(target=self.queue_polling1)
-                        multi.start()
-                        time.sleep(1)
-                        multi = threading.Thread(target=self.queue_polling2)
-                        multi.start()
-                        time.sleep(2)
-                        server.quit()  # asking server to quit
-                        time.sleep(10)
-                        logging.debug('Sending to : %s'%mainwindow.readlt[i])
-                        Actual.key=i         
-                       # print(Actual.key)
-                        if k!=0:
-                            if j<30:
-                                j=1
-                            elif j>30 and j<60:
-                                j=2
-                            elif j>60 and j<90:
-                                j=3
-                            elif j>90 and j<120:
-                                j=4
-                            elif j>120 and j<150:
-                                j=5
-                            elif j>150 and j<180:
-                                j=6
-                            elif j>180 and j<210:
-                                j=7
-                            elif j>210 and j<240:
-                                j=8
-                            elif j>240 and j<270:
-                                j=9
-                            elif j>300 and j<330:
-                                j=10
-                            elif j>330 and j<360:
-                                j=11
-                            elif j>360 and j<390:
-                                j=12
-                            elif j>390 and j<420:
-                                j=13
-                            elif j>420 and j<450:
-                                j=14
-                            elif j>450 and j<480:
-                                j=15
-                            elif j>480 and j<510:
-                                j=16
-                            elif j>510 and j<540:
-                                j=17
-                            elif j>540 and j<580:
-                                j=18
-           
-                except smtplib.SMTPException:
-                    if self.internetcheck() == False:
+                            if i==200:
                         
-                        #ment="Network Failue,waiting for connections"
+                                count=2
+                                messagess(count)
+                            if i==400:
+                            
+                                count=4
+                                messagess(count)
+                            multi = threading.Thread(target=self.queue_polling1)
+                            multi.start()
+                            time.sleep(1)
+                            multi = threading.Thread(target=self.queue_polling2)
+                            multi.start()
+                            time.sleep(2)
+                            server.quit()  # asking server to quit
+                            time.sleep(10)
+                            logging.debug('Sending to : %s'%mainwindow.readlt[i])
+                            Actual.key=i         
+                       # print(Actual.key)
+                            # if k!=0:
+                            #     if j<30:
+                            #         j=1
+                            #     elif j>30 and j<60:
+                            #         j=2
+                            #     elif j>60 and j<90:
+                            #         j=3
+                            #     elif j>90 and j<120:
+                            #         j=4
+                            #     elif j>120 and j<150:
+                            #         j=5
+                            #     elif j>150 and j<180:
+                            #         j=6
+                            #     elif j>180 and j<210:
+                            #         j=7
+                            #     elif j>210 and j<240:
+                            #         j=8
+                            #     elif j>240 and j<270:
+                            #         j=9
+                            #     elif j>300 and j<330:
+                            #         j=10
+                            #     elif j>330 and j<360:
+                            #         j=11
+                            #     elif j>360 and j<390:
+                            #         j=12
+                            #     elif j>390 and j<420:
+                            #         j=13
+                            #     elif j>420 and j<450:
+                            #         j=14
+                            #     elif j>450 and j<480:
+                            #         j=15
+                            #     elif j>480 and j<510:
+                            #         j=16
+                            #     elif j>510 and j<540:
+                            #         j=17
+                            #     elif j>540 and j<580:
+                            #         j=18
+           
+                    except smtplib.SMTPException:
+                        if self.internetcheck() == False:
+                        
+                            #ment="Network Failue,waiting for connections"
                         #self.text.insert(END,ment)
-                        logging.error(str(now))
-                        logging.error("Internet Connection Not Established")
-                        for u in range(0, 1000000):
-                            if self.internetcheck() == False:
-                                
-                                time.sleep(1)
-                                #tkinter.messagebox.showwarning('Warning',"Sleeping until internet connects...Trying %d times" % u)
-                                sys.stdout.flush()
+                            logging.error(str(now))
+                            logging.error("Internet Connection Not Established")
+                            for u in range(0, 1000000):
+                                if self.internetcheck() == False:
+                                    time.sleep(1)
+                                    #tkinter.messagebox.showwarning('Warning',"Sleeping until internet connects...Trying %d times" % u)
+                                    sys.stdout.flush()
                                 #if self.internetcheck() == True:
                                     #break
-                            else:
+                                else:
                                 #tkinter.messagebox.showwarning('Warning',"Awake from sleep, Got connection...")
-                                count=10
-                                messagess(count)
-                                count=9
-                                messagess(count)
-                                sys.stdout.flush()
-                                logging.debug(str(now))
-                                logging.debug("Internet Connection Established")
-                                sys.stdout.flush()
-                                break
-                    else:
-                        roots=Tk()
-                        self.k = 300
-                        self.s = 100
-                        self.wk = roots.winfo_screenwidth() 
-                        self.hw = roots.winfo_screenheight()
-                        self.z = (self.wk/2) - (self.k/2)
-                        self.u = (self.hw/2) - (self.s/2) 
-                        self.text=Text(roots,self.z,self.u)  
-                        self.text.  grid(row=3)
-                        roots.geometry('%dx%d+%d+%d' % (self.k, self.s, self.z, self.u))
-                        file = open("Errorlog.txt", "w")
-                        file.write("Date Time:{}".format(str(now)))
-                        file.write("Error: MailerID {} /n".format(mainwindow.readxs[j]))
-                        file.write("Error: MailerID {} /n".format(i))
-                        file.close()
-                        self.text.insert(END,"Date Time:{} \n".format(str(now)))
-                        self.text.insert(END,"Error: MailID {} \n".format(mainwindow.readxs[j]))
-                        self.text.insert(END,"Error: Sent upto {} \n".format(i))
-                        self.text.insert(END,"Error section j={}".format(j))
-                        logging.error("Unexpected Error Occured")
-                        logging.error(str(now))
-                        logging.error("Sent upto: %d"%i)
-                        logging.error("Sent with: %d"%j)
+                                    count=10
+                                    messagess(count)
+                                    count=9
+                                    messagess(count)
+                                    sys.stdout.flush()
+                                    logging.debug(str(now))
+                                    logging.debug("Internet Connection Established")
+                                    sys.stdout.flush()
+                                    break
+                        else:
+                            print(1)
+                            roots=Tk()
+                            self.k = 300
+                            self.s = 100
+                            self.wk = roots.winfo_screenwidth() 
+                            self.hw = roots.winfo_screenheight()
+                            self.z = (self.wk/2) - (self.k/2)
+                            self.u = (self.hw/2) - (self.s/2) 
+                            self.text=Text(roots)  
+                            self.text. grid(row=3)
+                            roots.geometry('%dx%d+%d+%d' % (self.k, self.s, self.z, self.u))
+                            file = open("Errorlog.txt", "w")
+                            file.write("Date Time:{}".format(str(now)))
+                            file.write("Error: MailerID {} /n".format(mainwindow.readxs[j]))
+                            file.write("Error: MailerID {} /n".format(i))
+                            file.close()
+                            self.text.insert(END,"Date Time:{} \n".format(str(now)))
+                            self.text.insert(END,"Error: MailID {} \n".format(mainwindow.readxs[j]))
+                            self.text.insert(END,"Error: Sent upto {} \n".format(i))
+                            self.text.insert(END,"Error section j={}".format(j))
+                            logging.error("Unexpected Error Occured")
+                            logging.error(str(now))
+                            logging.error("Sent upto: %d"%i)
+                            logging.error("Sent with: %d"%j)
 
                         
-                        j=j+1
-                      # print("j value incremented to:",j)
-                        k=0
-                        continue 
-                        roots.geometry('%dx%d+%d+%d' % (self.k, self.s, self.z, self.u))
-                        roots.mainloop()
+                            j=j+1
+                            flag=0
+                            print("j value incremented to:",j)
+                            #continue 
+                            print("iam after continue")
+                            roots.geometry('%dx%d+%d+%d' % (self.k, self.s, self.z, self.u))
+                            roots.mainloop()
 
                              
-            elif i>=500:
-                logging.debug('Contact Developer...Needs Renovation.')
+                elif i>=500:
+                    logging.debug('Contact Developer...Needs Renovation.')
         
-                print("Contact Developer.... Needs Renovation.")
+                    print("Contact Developer.... Needs Renovation.")
         
         Actual.pend=(mainwindow.count1)-Actual.key
         if Actual.pend==0:
@@ -1092,6 +1103,7 @@ class Actual(tk.Frame,mainwindow):
         self.u = (self.hw/2) - (self.s/2) 
         self.text=Text(roots)
         self.text.grid(row=3)
+        print(mainwindow.readxs)
         for i in range(len(mainwindow.readxs)):
 
             self.text.insert(END,"Signin ID:{} = {}  \n".format(mainwindow.readxs[i],mainwindow.readls[i]))
@@ -1294,7 +1306,7 @@ class solve(tk.Frame,secondwindow):
                         # # print(mainwindow.readxs[j])
                         # print(mainwindow.readls[i])
                         server.starttls()
-                        (server.login(mainwindow.readxs[i],mainwindow.readys[i])) 
+                        (server.login(mainwindow.readxs[j],mainwindow.readys[j])) 
                         #servercount1=servercount1+1
                         # print("servercount1=",servercount1) # Sender Mail, Sender Mail Password
                         print("current j value=",j)
@@ -1385,10 +1397,15 @@ class solve(tk.Frame,secondwindow):
                         j=j+1
                         print("j incremented to",j)
                         k=0
-                        
+                        x=0
+                        x=x+1
+                        print(x)
                         
             
                         continue
+                        y=0
+                        y=y+1
+                        print(y)
                         roots.geometry('%dx%d+%d+%d' % (self.k, self.s, self.z, self.u))
                         roots.mainloop()
             elif i>=500:
