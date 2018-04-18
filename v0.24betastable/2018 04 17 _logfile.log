@@ -1,0 +1,285 @@
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:socks:Error connecting to SOCKS5 proxy proxy.proxy.com:8080 due to: timed out
+DEBUG:socks:Error connecting to SOCKS5 proxy proxy.proxy.com:8080 due to: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+DEBUG:socks:Error connecting to SOCKS5 proxy proxy.proxy.com:8080 due to: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 11:25:48.427570
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 11:34:05.700878
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 12:10:53.048087
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 12:22:36.331049
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 12:30:22.036845
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-04-17 12:33:00.974173
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-04-17 12:33:00.974173
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 12:33:00.974173
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+ERROR:root:2018-04-17 12:33:00.974173
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-04-17 12:33:00.974173
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 16:55:00.159009
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 17:12:17.907403
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 17:22:27.025476
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 17:26:44.632726
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 17:44:13.511986
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+ERROR:root:2018-04-17 17:44:13.511986
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-04-17 17:44:13.511986
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 17:49:32.587096
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:2018-04-17 17:49:32.587096
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-17 18:00:00.413561
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2

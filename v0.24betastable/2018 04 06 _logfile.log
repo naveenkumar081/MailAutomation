@@ -1,0 +1,38 @@
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : naveeni
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : naveeni
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-06 17:41:58.570250
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-06 18:00:23.478109
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-06 18:06:41.549142
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-04-06 18:09:45.727756
+ERROR:root:Sent upto:0

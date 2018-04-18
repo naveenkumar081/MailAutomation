@@ -1,0 +1,326 @@
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:sample testing option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata sent to all 0 emails '}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-28 17:26:04.683605
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/AC09f56551e91dd660b68aa5eb4cc8762a/Messages.json
+INFO:twilio.http_client:PAYLOAD: {'To': '+917338766066', 'From': '+19202800064', 'Body': 'Welcome to Airbots Service,Mail Automata Stalled and Process Started again sent upto 0'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.twilio.com
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-28 17:43:58.796079
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-28 17:43:58.796079
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : ['Sharmi', 'be', 'Deepa', 'Swathi', 'Priya', 'Lakshmi ', 'Kavitha ', 'Muthu', 'Sharmibe', 'Raghu']
+DEBUG:root:enterd interation No:1
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : ['Sharmi', 'be', 'Deepa', 'Swathi', 'Priya', 'Lakshmi ', 'Kavitha ', 'Muthu', 'Sharmibe', 'Raghu']
+DEBUG:root:enterd interation No:1
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-28 18:01:27.906667
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:5
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Sent upto: 5
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Sent upto: 6
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:01:27.906667
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 6
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:11:08.844804
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:5
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:11:08.844804
+ERROR:root:Sent upto: 5
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:11:08.844804
+ERROR:root:Sent upto: 6
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:11:08.844804
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:11:08.844804
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:11:08.844804
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 6
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:31:30.852075
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:5
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:31:30.852075
+ERROR:root:Sent upto: 5
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:31:30.852075
+ERROR:root:Sent upto: 6
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:31:30.852075
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-28 18:31:30.852075
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 5

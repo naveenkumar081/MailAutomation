@@ -1,0 +1,1109 @@
+INFO:schedule:Running job Every 1 week at 09:55:00 do solvepath() (last run: [never], next run: 2018-03-30 09:55:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:schedule:Running job Every 1 week at 10:00:00 do solvepath() (last run: [never], next run: 2018-03-30 10:00:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:schedule:Running job Every 1 week at 10:07:00 do solvepath() (last run: [never], next run: 2018-03-30 10:07:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+INFO:schedule:Running job Every 1 week at 10:12:00 do solvepath() (last run: [never], next run: 2018-03-30 10:12:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+INFO:schedule:Running job Every 1 week at 10:18:00 do solvepath() (last run: [never], next run: 2018-03-30 10:18:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:16:33.242127
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:16:33.242127
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+INFO:schedule:Running job Every 1 week at 10:29:00 do solvepath() (last run: [never], next run: 2018-03-30 10:29:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 3
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:5
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 5
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 6
+ERROR:root:Sent with: 6
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 7
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 8
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:28:08.921504
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 9
+INFO:schedule:Running job Every 1 week at 10:34:00 do solvepath() (last run: [never], next run: 2018-03-30 10:34:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 3
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:5
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 5
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 6
+ERROR:root:Sent with: 6
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 7
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 8
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:32:42.866932
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 9
+INFO:schedule:Running job Every 1 week at 10:43:00 do solvepath() (last run: [never], next run: 2018-03-30 10:43:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 3
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:5
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 5
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 6
+ERROR:root:Sent with: 6
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 7
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 8
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:41:37.112136
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 9
+INFO:schedule:Running job Every 1 week at 10:47:00 do solvepath() (last run: [never], next run: 2018-03-30 10:47:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 10:45:02.231437
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 10:45:02.231437
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:45:02.231437
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:2018-03-30 10:45:02.231437
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 10:45:02.231437
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:2018-03-30 10:45:02.231437
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 10:45:02.231437
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:8
+ERROR:root:2018-03-30 10:45:02.231437
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 10:45:02.231437
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 10:45:02.231437
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 1
+INFO:schedule:Running job Every 1 week at 11:03:00 do solvepath() (last run: [never], next run: 2018-03-30 11:03:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+INFO:schedule:Running job Every 1 week at 11:07:00 do solvepath() (last run: [never], next run: 2018-03-30 11:07:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+INFO:schedule:Running job Every 1 week at 11:12:00 do solvepath() (last run: [never], next run: 2018-03-30 11:12:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 11:11:00.684363
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:11:00.684363
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 5
+INFO:schedule:Running job Every 1 week at 11:32:00 do solvepath() (last run: [never], next run: 2018-03-30 11:32:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 11:30:24.865585
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:30:24.865585
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 5
+INFO:schedule:Running job Every 1 week at 11:45:00 do solvepath() (last run: [never], next run: 2018-03-30 11:45:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:43:16.020513
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 6
+INFO:schedule:Running job Every 1 week at 11:57:00 do solvepath() (last run: [never], next run: 2018-03-30 11:57:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 11:55:13.141855
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 11:55:13.141855
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:55:13.141855
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:55:13.141855
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:2018-03-30 11:55:13.141855
+ERROR:root:Internet Connection Not Established
+INFO:schedule:Running job Every 1 week at 12:00:00 do solvepath() (last run: [never], next run: 2018-03-30 12:00:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 11:58:44.999260
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 11:58:44.999260
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 11:58:44.999260
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 3
+INFO:schedule:Running job Every 1 week at 12:12:00 do solvepath() (last run: [never], next run: 2018-03-30 12:12:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:10:32.938903
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:10:32.938903
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 4
+INFO:schedule:Running job Every 1 week at 12:24:00 do solvepath() (last run: [never], next run: 2018-03-30 12:24:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:22:19.745921
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:22:19.745921
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:22:19.745921
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 4
+INFO:schedule:Running job Every 1 week at 12:37:00 do solvepath() (last run: [never], next run: 2018-03-30 12:37:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:34:56.670206
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:34:56.670206
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:34:56.670206
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:34:56.670206
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 3
+INFO:schedule:Running job Every 1 week at 12:50:00 do solvepath() (last run: [never], next run: 2018-03-30 12:50:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:48:16.108419
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:8
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:48:16.108419
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:9
+ERROR:root:2018-03-30 12:48:16.108419
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 12:48:16.108419
+DEBUG:root:Internet Connection Established
+INFO:schedule:Running job Every 1 week at 14:16:00 do solvepath() (last run: [never], next run: 2018-03-30 14:16:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 14:14:13.172881
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:14:13.172881
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:14:13.172881
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+INFO:schedule:Running job Every 1 week at 14:28:00 do solvepath() (last run: [never], next run: 2018-03-30 14:28:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:26:29.724632
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:26:29.724632
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:8
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:26:29.724632
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:26:29.724632
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 3
+INFO:schedule:Running job Every 1 week at 14:38:00 do solvepath() (last run: [never], next run: 2018-03-30 14:38:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:2
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:36:43.412350
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:36:43.412350
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 4
+INFO:schedule:Running job Every 1 week at 14:47:00 do solvepath() (last run: [never], next run: 2018-03-30 14:47:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:44:35.438579
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:1
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:44:35.438579
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:2
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:44:35.438579
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:44:35.438579
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 3
+INFO:schedule:Running job Every 1 week at 14:57:00 do solvepath() (last run: [never], next run: 2018-03-30 14:57:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:55:21.955704
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Internet Connection Not Established
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:Mail Started Running
+DEBUG:root:Mail Automata Stalled and Process Started again 
+DEBUG:root:2018-03-30 14:55:21.955704
+DEBUG:root:Internet Connection Established
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 14:55:21.955704
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 4
+INFO:schedule:Running job Every 1 week at 15:03:00 do solvepath() (last run: [never], next run: 2018-03-30 15:03:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:00:46.404517
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+INFO:schedule:Running job Every 1 week at 15:23:00 do solvepath() (last run: [never], next run: 2018-03-30 15:23:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:8
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 8
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:21:13.252888
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 6
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:49:48.442173
+ERROR:root:Sent upto: 0
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:1
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:49:48.442173
+ERROR:root:Sent upto: 1
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:2
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:49:48.442173
+ERROR:root:Sent upto: 2
+ERROR:root:Sent with: 2
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:49:48.442173
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 3
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:49:48.442173
+ERROR:root:Sent upto: 7
+ERROR:root:Sent with: 4
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 15:49:48.442173
+ERROR:root:Sent upto: 9
+ERROR:root:Sent with: 5
+DEBUG:root:enterd interation No:10
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 16:09:37.030026
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 1
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:enterd interation No:10
+INFO:schedule:Running job Every 1 week at 16:23:00 do solvepath() (last run: [never], next run: 2018-03-30 16:23:00)
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Actual Customers Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 16:21:39.093441
+ERROR:root:Sent upto: 4
+ERROR:root:Sent with: 0
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 17:41:54.755036
+ERROR:root:Sent upto:6
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 17:45:37.776102
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 17:51:08.787757
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 17:53:30.276825
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 17:57:16.957711
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 17:59:54.045020
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 18:02:15.335717
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+ERROR:root:Unexpected Error Occured
+ERROR:root:2018-03-30 18:07:26.464315
+ERROR:root:Sent upto:0
+DEBUG:root:Selected Sample Option
+DEBUG:root:enterd interation No:0
+DEBUG:root:Sending to : Sharmi
+DEBUG:root:enterd interation No:1
+DEBUG:root:Sending to : be
+DEBUG:root:enterd interation No:2
+DEBUG:root:Sending to : Deepa
+DEBUG:root:enterd interation No:3
+DEBUG:root:Sending to : Swathi
+DEBUG:root:enterd interation No:4
+DEBUG:root:Sending to : Priya
+DEBUG:root:enterd interation No:5
+DEBUG:root:Sending to : Lakshmi 
+DEBUG:root:enterd interation No:6
+DEBUG:root:Sending to : Kavitha 
+DEBUG:root:enterd interation No:7
+DEBUG:root:Sending to : Muthu
+DEBUG:root:enterd interation No:8
+DEBUG:root:Sending to : Sharmibe
+DEBUG:root:enterd interation No:9
+DEBUG:root:Sending to : Raghu
